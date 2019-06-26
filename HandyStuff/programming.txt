@@ -1,0 +1,10 @@
+kaggle , github download
+min/max heap
+
+Greedy Approach:
+
+Mouse problem. DONE
+Activity selection problem DONE
+Bulb Problem Not done
+Chocolate distribution problem. Not Done.
+
